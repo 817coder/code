@@ -39,7 +39,7 @@
           <artifactId>spring-context</artifactId>
         </exclusion>
       </exclusions>
-      <version>2.6.6.7-cf</version>
+      <version>2.6.9</version>
     </dependency>
     <dependency>
       <groupId>io.netty</groupId>
